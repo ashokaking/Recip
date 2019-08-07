@@ -1,4 +1,2 @@
-kheer
-pasta
-chicken
-mutton
+idly
+dosa
